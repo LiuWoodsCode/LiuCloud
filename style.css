@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('/fonts/Ubuntu/Ubuntu-Regular.ttf) format('ttf'),
+       url('/fonts/Ubuntu/Ubuntu-Bold.ttf) format('ttf'),
+  /* Add additional font formats here if needed, e.g., ttf, otf */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
